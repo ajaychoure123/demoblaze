@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="80286" started-at="2022-09-11T11:37:48 IST" finished-at="2022-09-11T11:39:08 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="80286" started-at="2022-09-11T11:37:48 IST" finished-at="2022-09-11T11:39:08 IST">
+      <class name="testlayer.HomePageTest">
+        <test-method status="PASS" signature="launchDriver()[pri:0, instance:testlayer.HomePageTest@69b0fd6f]" name="launchDriver" is-config="true" duration-ms="42669" started-at="2022-09-11T11:37:48 IST" finished-at="2022-09-11T11:38:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method status="PASS" signature="verifyBuySamsungGalaxy6()[pri:0, instance:testlayer.HomePageTest@69b0fd6f]" name="verifyBuySamsungGalaxy6" duration-ms="2229" started-at="2022-09-11T11:38:31 IST" finished-at="2022-09-11T11:38:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBuySamsungGalaxy6 -->
+        <test-method status="PASS" signature="CloseDriver()[pri:0, instance:testlayer.HomePageTest@69b0fd6f]" name="CloseDriver" is-config="true" duration-ms="1118" started-at="2022-09-11T11:38:33 IST" finished-at="2022-09-11T11:38:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseDriver -->
+        <test-method status="PASS" signature="launchDriver()[pri:0, instance:testlayer.HomePageTest@69b0fd6f]" name="launchDriver" is-config="true" duration-ms="8062" started-at="2022-09-11T11:38:34 IST" finished-at="2022-09-11T11:38:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method status="PASS" signature="verifybuyNexus6()[pri:0, instance:testlayer.HomePageTest@69b0fd6f]" name="verifybuyNexus6" duration-ms="2942" started-at="2022-09-11T11:38:42 IST" finished-at="2022-09-11T11:38:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifybuyNexus6 -->
+        <test-method status="PASS" signature="CloseDriver()[pri:0, instance:testlayer.HomePageTest@69b0fd6f]" name="CloseDriver" is-config="true" duration-ms="755" started-at="2022-09-11T11:38:45 IST" finished-at="2022-09-11T11:38:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseDriver -->
+        <test-method status="PASS" signature="launchDriver()[pri:0, instance:testlayer.HomePageTest@69b0fd6f]" name="launchDriver" is-config="true" duration-ms="6125" started-at="2022-09-11T11:38:46 IST" finished-at="2022-09-11T11:38:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method status="PASS" signature="verifybuyNokialumia1520()[pri:0, instance:testlayer.HomePageTest@69b0fd6f]" name="verifybuyNokialumia1520" duration-ms="2041" started-at="2022-09-11T11:38:52 IST" finished-at="2022-09-11T11:38:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifybuyNokialumia1520 -->
+        <test-method status="PASS" signature="CloseDriver()[pri:0, instance:testlayer.HomePageTest@69b0fd6f]" name="CloseDriver" is-config="true" duration-ms="641" started-at="2022-09-11T11:38:54 IST" finished-at="2022-09-11T11:38:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseDriver -->
+        <test-method status="PASS" signature="launchDriver()[pri:0, instance:testlayer.HomePageTest@69b0fd6f]" name="launchDriver" is-config="true" duration-ms="10834" started-at="2022-09-11T11:38:55 IST" finished-at="2022-09-11T11:39:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method status="PASS" signature="verifybuySamsunggalaxys7()[pri:0, instance:testlayer.HomePageTest@69b0fd6f]" name="verifybuySamsunggalaxys7" duration-ms="1991" started-at="2022-09-11T11:39:05 IST" finished-at="2022-09-11T11:39:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifybuySamsunggalaxys7 -->
+        <test-method status="PASS" signature="CloseDriver()[pri:0, instance:testlayer.HomePageTest@69b0fd6f]" name="CloseDriver" is-config="true" duration-ms="824" started-at="2022-09-11T11:39:07 IST" finished-at="2022-09-11T11:39:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseDriver -->
+      </class> <!-- testlayer.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
